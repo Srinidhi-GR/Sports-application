@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sports app</string>
+    <string name="d" />
+    <string name="textview">TextView</string>
+    <string name="volly">volly</string>
+    <string name="vollyball">Vollyball</string>
+</resources>
